@@ -8,3 +8,5 @@ dlib_face_recognition_resnet_model_v1.dat
 __pycache__/
 .idea/
 .vscode/
+accu.cc/
+
