@@ -5,4 +5,5 @@ demo3.py
 demo4.py
 demo5.py
 dlib_face_recognition_resnet_model_v1.dat
-__pycache__\demo5.cpython-37.pyc
+__pycache__/
+.idea/
