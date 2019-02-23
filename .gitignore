@@ -1,4 +1,6 @@
 yang.jpg
+godness_d.png
+obama.jpg
 demo1.py
 demo2.py
 demo3.py
@@ -6,4 +8,9 @@ demo4.py
 demo5.py
 dlib_face_recognition_resnet_model_v1.dat
 shape_predictor_68_face_landmarks.dat
-__pycache__\demo5.cpython-37.pyc
+__pycache__/
+face/
+face_tests/
+accu.cc/
+.idea/
+.vscode/
